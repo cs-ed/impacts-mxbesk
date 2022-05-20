@@ -24,6 +24,8 @@ Before students engage in the learning activities required for this project, the
 
 ### Assessment
 
+Throughout the above learning activities, if individuals or groups of students struggle to identify or employ the rhetorical appeals, the instructor will provide more examples and opportunities to discuss and formulate appeals. If individuals or groups of students employ marketing strategies that would alienate or marginalize some consumers, peers and the instructor will provide feedback and guide the individuals or groups in developing more inclusive, socially responsible marketing strategies and use of rhetorical appeals.
+
 - Students will demonstrate their grasp of rhetorical appeals by describing the appeals' use in both professional and student-created marketing campaigns. 
 - Students will state (in discussions and in writing) which appeal is being used in specific instances and will justify their claim by citing and explaining evidence drawn from the marketing campaigns. 
 - Students will devise their own marketing campaigns and imagine how these campaigns and the products being advertised might be received by consumers, paying special attention to how the campaigns might give priority to members of some demographic groups over others. 
