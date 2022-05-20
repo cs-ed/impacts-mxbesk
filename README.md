@@ -6,29 +6,29 @@ Integrated Math 1 with Computing and Robotics is a high school math class taken 
 
 ### Learning Objectives
 
--Identify societal needs, and propose solutions relating to math, programming, robotics, or manufacturing.
--Present proposals and solutions to peers, and collaborate with peers to refine proposals and projects throughout the engineering design process.
--Analyze past and present solutions to problems, as well as these solutions' marketing and social impacts.
--Formulate solutions which take into consideration potential positive and negative social impacts.
--When marketing proposed solutions, consider ethics and avoidance of bias and stereotypes.
+- Identify societal needs, and propose solutions relating to math, programming, robotics, or manufacturing.
+- Present proposals and solutions to peers, and collaborate with peers to refine proposals and projects throughout the engineering design process.
+- Analyze past and present solutions to problems, as well as these solutions' marketing and social impacts.
+- Formulate solutions which take into consideration potential positive and negative social impacts.
+- When marketing proposed solutions, consider ethics and avoidance of bias and stereotypes.
 
 ### Learning Activities
 
 Before students engage in the learning activities required for this project, they will have already studied and practiced using appeals to pathos, logos, and ethos in their English and social studies classes (Ethnic Studies, World History, or United States History). In the Integrated Math 1 with Computing and Robotics class, students will review these appeals and analyze past and present marketing campaigns to determine which appeals are employed, as well as how biases and stereotypes may appeal to certain consumers while alienating others. This review of pathos, logos, ethos, biases, and stereotypes in marketing will include mostly class and small group discussions. The actual development and marketing of a product addressing a societal need will take the form of individual or small group projects, with peer review and revision throughout the engineering design process. 
 
--Students learn about and practice using rhetorical appeals in both their social studies and language arts classes and apply their understanding of those appeals in the computer science context. 
--Students locate a variety of print or digital ads from different time periods ads and identify examples of rhetorical appeals to pathos, logos, ethos.
--In addition to describing use of the three rhetorical appeals, students attend to demographics of intended consumers, discerning how marketers appeal to consumers’ gender, sexuality, ethnicity, income, age, education, and other demographic factors.
--When students create their own computer, tech, game, or app product proposals later in the term, they choose at least one of the rhetorical appeals as primary in their marketing.
--When marketing their computer product, students identify their intended consumer while also ensuring that their product and its marketing do not alienate potential consumers, unintentionally or intentionally.
+- Students learn about and practice using rhetorical appeals in both their social studies and language arts classes and apply their understanding of those appeals in the computer science context. 
+- Students locate a variety of print or digital ads from different time periods ads and identify examples of rhetorical appeals to pathos, logos, ethos.
+- In addition to describing use of the three rhetorical appeals, students attend to demographics of intended consumers, discerning how marketers appeal to consumers’ gender, sexuality, ethnicity, income, age, education, and other demographic factors.
+- When students create their own computer, tech, game, or app product proposals later in the term, they choose at least one of the rhetorical appeals as primary in their marketing.
+- When marketing their computer product, students identify their intended consumer while also ensuring that their product and its marketing do not alienate potential consumers, unintentionally or intentionally.
 
 ### Assessment
 
--Students will demonstrate their grasp of rhetorical appeals by describing the appeals' use in both professional and student-created marketing campaigns. 
--Students will state (in discussions and in writing) which appeal is being used in specific instances and will justify their claim by citing and explaining evidence drawn from the marketing campaigns. 
--Students will devise their own marketing campaigns and imagine how these campaigns and the products being advertised might be received by consumers, paying special attention to how the campaigns might give priority to members of some demographic groups over others. 
--Students will consider peer and instructor feedback and revise their marketing campaigns to avoid bias, discrimination, alienation of prospective consumers.
--After designing a product which addresses a societal need, receiving feedback on the product's initial marketing campaign, students will present their product and marketing materials to the public (parents, faculty, peers, families, commununity partners) at an end-of-term showcase.
+- Students will demonstrate their grasp of rhetorical appeals by describing the appeals' use in both professional and student-created marketing campaigns. 
+- Students will state (in discussions and in writing) which appeal is being used in specific instances and will justify their claim by citing and explaining evidence drawn from the marketing campaigns. 
+- Students will devise their own marketing campaigns and imagine how these campaigns and the products being advertised might be received by consumers, paying special attention to how the campaigns might give priority to members of some demographic groups over others. 
+- Students will consider peer and instructor feedback and revise their marketing campaigns to avoid bias, discrimination, alienation of prospective consumers.
+- After designing a product which addresses a societal need, receiving feedback on the product's initial marketing campaign, students will present their product and marketing materials to the public (parents, faculty, peers, families, commununity partners) at an end-of-term showcase.
 
 ### Outcomes
 
